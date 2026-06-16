@@ -28,6 +28,6 @@ export default defineConfig({
   server: {
     port: 3000,
     host: true,
-    allowedHosts: ['e40c-91-197-46-139.ngrok-free.app']
+    allowedHosts: ['vanica.onrender.com']
   }
 })
