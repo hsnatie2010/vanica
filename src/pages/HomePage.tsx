@@ -84,7 +84,7 @@ export default function HomePage() {
               animate={{ opacity: 1, x: 0 }}
               className="flex items-center"
             >
-              <img src="/logo.png" alt="Vanica Events" className="h-10 sm:h-14" />
+              <img src="./logo.png" alt="Vanica Events" className="h-10 sm:h-14" />
             </motion.div>
 
             {/* Desktop nav */}
