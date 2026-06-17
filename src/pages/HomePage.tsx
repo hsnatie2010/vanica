@@ -84,7 +84,7 @@ export default function HomePage() {
               animate={{ opacity: 1, x: 0 }}
               className="flex items-center"
             >
-              <img src="https://ibb.co/FLDTjT1t" alt="Vanica Events" className="h-10 sm:h-14" />
+              <img src="https://i.ibb.co/tTJrWr65/logo.jpg" alt="Vanica Events" className="h-10 sm:h-14" />
             </motion.div>
 
             {/* Desktop nav */}
@@ -487,7 +487,7 @@ export default function HomePage() {
         <div className="container mx-auto max-w-7xl">
           <div className="text-center">
             <div className="flex justify-center mb-4">
-              <img src="https://ibb.co/FLDTjT1t" alt="Vanica Events" className="h-12 sm:h-16" />
+              <img src="https://i.ibb.co/tTJrWr65/logo.jpg" alt="Vanica Events" className="h-12 sm:h-16" />
             </div>
             <p className="text-slate-400 mb-8">Creating unforgettable moments, one event at a time</p>
             
