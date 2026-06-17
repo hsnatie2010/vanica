@@ -84,7 +84,7 @@ export default function HomePage() {
               animate={{ opacity: 1, x: 0 }}
               className="flex items-center"
             >
-              <img src="./logo.png" alt="Vanica Events" className="h-10 sm:h-14" />
+              <img src="https://ibb.co/FLDTjT1t" alt="Vanica Events" className="h-10 sm:h-14" />
             </motion.div>
 
             {/* Desktop nav */}
@@ -487,7 +487,7 @@ export default function HomePage() {
         <div className="container mx-auto max-w-7xl">
           <div className="text-center">
             <div className="flex justify-center mb-4">
-              <img src="/logo.png" alt="Vanica Events" className="h-12 sm:h-16" />
+              <img src="https://ibb.co/FLDTjT1t" alt="Vanica Events" className="h-12 sm:h-16" />
             </div>
             <p className="text-slate-400 mb-8">Creating unforgettable moments, one event at a time</p>
             
@@ -499,7 +499,7 @@ export default function HomePage() {
             </div>
             
             <div className="border-t border-slate-800 pt-8">
-              <p className="text-slate-500">© 2024 Vanica Events. All rights reserved.</p>
+              <p className="text-slate-500">© 2026 Vanica Events. All rights reserved.</p>
             </div>
           </div>
         </div>
