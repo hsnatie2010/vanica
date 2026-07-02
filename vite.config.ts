@@ -28,6 +28,6 @@ export default defineConfig({
   server: {
     port: 3000,
     host: true,
-    allowedHosts: ['vanica.onrender.com']
+    allowedHosts: ['vanica.onrender.com','vanica-eventplanner.com','www.vanica-eventplanner.com']
   }
 })
