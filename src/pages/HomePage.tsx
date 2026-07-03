@@ -243,7 +243,7 @@ export default function HomePage() {
                     </Button>
                   </motion.div>
                 </Link>
-                <Link to="/www.instagram.com/vanica.lb">
+                <Link to="www.instagram.com/vanica.lb">
                   <motion.div
                    whileHover={{ scale: 1.05, y: -2 }}
                    whileTap={{ scale: 0.95 }}
