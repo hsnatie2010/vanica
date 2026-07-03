@@ -243,7 +243,7 @@ export default function HomePage() {
                     </Button>
                   </motion.div>
                 </Link>
-                
+                <Link to="/www.instagram.com/vanica.lb">
                 <motion.div
                   whileHover={{ scale: 1.05, y: -2 }}
                   whileTap={{ scale: 0.95 }}
@@ -254,7 +254,7 @@ export default function HomePage() {
                 </motion.div>
               </motion.div>
             </motion.div>
-
+            </Link>
             {/* 3D Event Display */}
             <motion.div
               className="relative flex justify-center items-center"
