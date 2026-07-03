@@ -243,16 +243,24 @@ export default function HomePage() {
                     </Button>
                   </motion.div>
                 </Link>
-                <Link to="www.instagram.com/vanica.lb">
+                <a
+                  href="https://www.instagram.com/vanica.lb"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <motion.div
-                   whileHover={{ scale: 1.05, y: -2 }}
-                   whileTap={{ scale: 0.95 }}
+                    whileHover={{ scale: 1.05, y: -2 }}
+                    whileTap={{ scale: 0.95 }}
                   >
-                   <Button variant="outline" size="lg" className="px-12 py-4 bg-white/60 backdrop-blur-sm text-slate-700 rounded-full border border-lavender/50 hover:bg-lavender/10 transition-all duration-300 shadow-lg">
-                     View Portfolio
-                   </Button>
+                    <Button
+                      variant="outline"
+                      size="lg"
+                      className="px-12 py-4 bg-white/60 backdrop-blur-sm text-slate-700 rounded-full border border-lavender/50 hover:bg-lavender/10 transition-all duration-300 shadow-lg"
+                    >
+                      View Portfolio
+                    </Button>
                   </motion.div>
-                </Link>
+                </a>
                </motion.div>
              </motion.div>
             
