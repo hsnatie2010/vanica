@@ -252,9 +252,10 @@ export default function HomePage() {
                      View Portfolio
                    </Button>
                   </motion.div>
+                </Link>
                </motion.div>
              </motion.div>
-            </Link>
+            
             {/* 3D Event Display */}
             <motion.div
               className="relative flex justify-center items-center"
