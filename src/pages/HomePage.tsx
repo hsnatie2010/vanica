@@ -428,7 +428,7 @@ export default function HomePage() {
                     <div className="text-4xl font-bold font-heading text-pink-600">8+</div>
                     <div className="text-slate-600">Years Experience</div>
                   </div>
-                  <div>
+                  <div className="col-start-1 col-end-3">
                     <div className="text-4xl font-bold font-heading text-pink-600">100%</div>
                     <div className="text-slate-600">Family Satisfaction</div>
                   </div>
