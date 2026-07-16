@@ -433,8 +433,7 @@ export default function HomePage() {
                     <div className="text-slate-600">Family Satisfaction</div>
                   </div>
                   <div>
-                    <div className="text-4xl font-bold font-heading text-pink-600">A to Z</div>
-                    <div className="text-slate-600">Support</div>
+                    
                   </div>
                 </div>
               </div>
