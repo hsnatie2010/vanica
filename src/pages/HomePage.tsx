@@ -28,7 +28,7 @@ const services = [
       "Magical birthday parties that create unforgettable memories for your little ones",
   },
   {
-    icon: "🎨",
+    image: "/Untitled design (4)",
     title: "Themed Parties",
     description:
       "Creative themed celebrations bringing your child's favorite characters to life",
@@ -486,7 +486,7 @@ export default function HomePage() {
               <div className="flex flex-col items-center">
                 <Users className="w-8 h-8 text-mint mb-4" />
                 <h3 className="font-semibold text-pink-600 mb-2">Contact</h3>
-                <p className="text-slate-600">+961 03068914</p>
+                <p className="text-slate-600">+961 03 068 914</p>
               </div>
             </div>
 
