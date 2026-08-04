@@ -365,7 +365,7 @@ export default function HomePage() {
                         <img
                           src={service.image}
                           alt={service.title}
-                          className="w-28.3 h-28.3 object-contain"
+                          className="w-28.2 h-28.2 object-contain"
                         />
                       ) : (
                         <div className="text-6xl">{service.icon}</div>
