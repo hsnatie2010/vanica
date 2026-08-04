@@ -481,7 +481,7 @@ export default function HomePage() {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                <Button size="lg" className="px-8 sm:px-12 py-4 bg-pink-500 text-white rounded-full hover:bg-pink-600 transition-all duration-300 shadow-2xl">
+                <Button size="lg" className="px-8 sm:px-12 py-4 bg-#ffd5f0 text-white rounded-full hover:bg-pink-600 transition-all duration-300 shadow-2xl">
                   Start Planning Now
                 </Button>
               </motion.div>
