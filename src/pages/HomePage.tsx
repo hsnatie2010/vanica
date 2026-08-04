@@ -40,7 +40,7 @@ const services = [
       "Engaging activities and entertainment that captivate children of all ages",
   },
   {
-    image: "/Untitled design.svg",
+    image: "/ Untitled design (3).svg",
     title: "Special Occasions",
     description:
       "Bespoke celebrations for graduations, achievements, and milestone moments",
