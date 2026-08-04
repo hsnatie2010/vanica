@@ -356,7 +356,17 @@ export default function HomePage() {
               >
                 <Card className="h-full bg-white/80 backdrop-blur-sm border border-lavender/40 hover:border-pink-300/50 hover:shadow-xl hover:shadow-lavender/10 transition-all duration-300">
                   <CardHeader className="text-center">
-                    <div className="text-6xl mb-4">{service.icon}</div>
+                    <div className="mb-4 flex justify-center items-center h-20">
+                      {service.image ? (
+                        <img
+                          src={service.image}
+                          alt={service.title}
+                          className="w-16 h-16 object-contain"
+                        />
+                      ) : (
+                        <div className="text-6xl">{service.icon}</div>
+                      )}
+                   </div>
                     <CardTitle className="text-xl text-pink-600">{service.title}</CardTitle>
                   </CardHeader>
                   <CardContent>
