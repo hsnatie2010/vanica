@@ -22,26 +22,30 @@ const heroContent = {
 
 const services = [
   {
-    icon: "🎂",
+    image: "/Untitled design (1).svg",
     title: "Birthday Celebrations",
-    description: "Magical birthday parties that create unforgettable memories for your little ones"
+    description:
+      "Magical birthday parties that create unforgettable memories for your little ones",
   },
   {
     icon: "🎨",
     title: "Themed Parties",
-    description: "Creative themed celebrations bringing your child's favorite characters to life"
+    description:
+      "Creative themed celebrations bringing your child's favorite characters to life",
   },
   {
-    icon: "🎪",
-    title: "Interactive Entertainment", 
-    description: "Engaging activities and entertainment that captivate children of all ages"
+    image: "/Untitled design (2).svg",
+    title: "Interactive Entertainment",
+    description:
+      "Engaging activities and entertainment that captivate children of all ages",
   },
   {
-    icon: "🎁",
+    image: "/Untitled design.svg",
     title: "Special Occasions",
-    description: "Bespoke celebrations for graduations, achievements, and milestone moments"
-  }
-]
+    description:
+      "Bespoke celebrations for graduations, achievements, and milestone moments",
+  },
+];
 
 export default function HomePage() {
   const containerRef = useRef<HTMLDivElement>(null)
