@@ -336,7 +336,7 @@ export default function HomePage() {
             viewport={{ once: true }}
             className="text-center mb-12 sm:mb-20"
           >
-            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-thin text-red mb-6">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-thin text-[#e8ddff] mb-6">
               Our Children's Services
             </h2>
             <p className="text-base sm:text-xl text-slate-600 max-w-3xl mx-auto">
@@ -381,7 +381,7 @@ export default function HomePage() {
               transition={{ duration: 0.8 }}
               viewport={{ once: true }}
             >
-              <h2 className="text-3xl sm:text-4xl lg:text-5xl font-thin text-grape mb-8">
+              <h2 className="text-3xl sm:text-4xl lg:text-5xl font-thin text-[#e8ddff] mb-8">
                 About Vanica Events
               </h2>
               <p className="text-lg text-slate-600 leading-relaxed mb-6">
@@ -451,7 +451,7 @@ export default function HomePage() {
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
           >
-            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-thin text-grape mb-8">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-thin text-[#e8ddff] mb-8">
               Ready to Plan Your Event?
             </h2>
             <p className="text-base sm:text-xl text-slate-600 mb-12">
