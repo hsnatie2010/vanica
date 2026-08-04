@@ -508,10 +508,7 @@ export default function HomePage() {
       <footer className="relative py-10 px-4 sm:px-6 bg-slate-900 text-white">
         <div className="container mx-auto max-w-7xl">
           <div className="text-center">
-            <div className="flex justify-center mb-4">
-              <img src="/logo.png" alt="Vanica Events" className="h-12 sm:h-16" />
-            </div>
-            <p className="text-slate-400 mb-8">Creating unforgettable moments, one event at a time</p>
+
             
             <div className="flex flex-wrap justify-center gap-4 sm:gap-8 mb-8">
               <a href="#home" className="text-slate-400 hover:text-white transition-colors">Home</a>
