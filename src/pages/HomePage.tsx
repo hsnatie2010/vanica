@@ -28,7 +28,7 @@ const services = [
       "Magical birthday parties that create unforgettable memories for your little ones",
   },
   {
-    image: "/Untitled design (4)",
+    image: "/Untitled design (4).svg",
     title: "Themed Parties",
     description:
       "Creative themed celebrations bringing your child's favorite characters to life",
