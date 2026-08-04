@@ -201,7 +201,7 @@ export default function HomePage() {
               className="space-y-10 z-10"
             >
               <motion.h1 
-                className="text-3xl sm:text-4xl lg:text-5xl font-thin text-grape mb-6"
+                className="text-3xl sm:text-4xl lg:text-5xl font-thin text-[#e8ddff] mb-6"
                 initial={{ opacity: 0, y: 50 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 1, delay: 0.7 }}
