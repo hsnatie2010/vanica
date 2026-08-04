@@ -462,12 +462,12 @@ export default function HomePage() {
               <div className="flex flex-col items-center">
                 <MapPin className="w-8 h-8 text-pink-500 mb-4" />
                 <h3 className="font-semibold text-pink-600 mb-2">Location</h3>
-                <p className="text-slate-600">Lebanon, Beirut, Hamra / Gulf</p>
+                <p className="text-slate-600">Lebanon , Gulf</p>
               </div>
               <div className="flex flex-col items-center">
                 <Clock className="w-8 h-8 text-lavender mb-4" />
                 <h3 className="font-semibold text-pink-600 mb-2">Hours</h3>
-                <p className="text-slate-600">10 AM - 8 PM</p>
+                <p className="text-slate-600">10:00 AM - 4:00 PM</p>
               </div>
               <div className="flex flex-col items-center">
                 <Users className="w-8 h-8 text-mint mb-4" />
